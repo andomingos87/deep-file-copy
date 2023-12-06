@@ -1,2 +1,2 @@
-# deep-file-copy
-DeepFileCopy: A Python tool for efficiently copying files from all subdirectories to a specified location, perfect for organizing and managing data.
+# DeepFileCopy
+Uma ferramenta em Python para copiar arquivos de subdiretórios para um local especificado, ideal para organizar e gerenciar dados de forma eficiente.
