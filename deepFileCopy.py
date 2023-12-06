@@ -32,8 +32,8 @@ def copiar_arquivos(diretorio_origem, diretorio_destino, formato='.pdf'):
     return quantidade_copiados
 
 # Exemplo de uso do script
-diretorio_origem = '/Users/anderson/Documents/Clientes/Retrovex'
-diretorio_destino = '/Users/anderson/Documents/Clientes/teste'
+diretorio_origem = '/diretorio/de/origem'
+diretorio_destino = '/diretorio/de/destino'
 
 # Executa a função e imprime o resultado
 quantidade_copiados = copiar_arquivos(diretorio_origem, diretorio_destino)
