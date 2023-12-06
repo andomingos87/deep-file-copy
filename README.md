@@ -1,7 +1,3 @@
-Claro, aqui está um exemplo de README detalhado para o seu script "DeepFileCopy":
-
----
-
 # DeepFileCopy
 
 ## Descrição
